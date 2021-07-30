@@ -4,7 +4,7 @@ This is the final project of the course Computer Programming.
 ## Demo
 - GIFs
 
-- Demo Video Link (You can skip to 1:00 to watch game demo)
+- Demo Video Link (You can skip to 1:00 to watch game demo): 
 https://www.youtube.com/watch?v=pMp94xexHI0
 
 ## Usage 
