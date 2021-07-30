@@ -10,9 +10,9 @@ https://www.youtube.com/watch?v=pMp94xexHI0
 ## Usage 
 - Download the "game" folder, and execute "project.exe" inside.
 - Control 
-moving : up down left right
-switch weapon : M
-shoot : space 
+  - moving : up down left right
+  - switch weapon : M
+  - shoot : space 
 
 ## Game Settings
 - Health and Damage
