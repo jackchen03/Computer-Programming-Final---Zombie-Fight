@@ -1,5 +1,6 @@
 # Computer Programming Final 2016 fall
-This is the final project of the course Computer Programming.
+- This is the final project of the course Computer Programming.
+- Implemented C++ class encapsulation, inheritance, composition, etc. My first try of managing a large coding project.
 
 ## Demo
 - GIFs
